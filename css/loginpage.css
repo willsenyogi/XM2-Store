@@ -1,0 +1,71 @@
+body{
+    margin: 0 auto;
+    width: 60%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.center-box{
+    display: flex;  
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffd60a;
+    border-radius: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    max-height: 830px;
+}
+
+.center-box img{
+    width: 150px;
+    height: 50px;
+}
+
+.center-box .divider-text{
+    font-weight: 150px;
+}
+
+.center-box button{
+    width: 250px;
+    height: 40px;
+    border-radius: 14px;
+    font-weight: bolder;
+    border: 5px;
+    background-color: #ffd60a;                                                   
+    transition: background-color .6s;
+    transition: color .8s;
+    
+}
+
+.center-box button:hover{
+    background-color: #003566;
+    color: white;
+}
+
+.center-box ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.center-box .form-row{
+    padding-bottom: 25px;
+}
+
+.center-box .scroll-overflow{
+    padding: 5px;
+    overflow: scroll;
+}
+.form-row input{
+    width: 600px;
+    height: 30px;
+    border-radius: 14px;
+    border: 1px solid rgb(66, 64, 64);
+    padding: 5px 10px;
+}
+
