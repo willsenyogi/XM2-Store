@@ -174,15 +174,15 @@ body{
 }
 
 
-.footer{
+footer{
     padding-top: 50px;
 }
 
-.footer svg {
+footer svg {
 	font-family: "Ruda", sans-serif;
 	width: 100%; height: 100%;
 }
-.footer svg text {
+footer svg text {
 	animation: stroke 3s infinite alternate;
 	stroke-width: 2;
 	stroke: #FFEBCD;
