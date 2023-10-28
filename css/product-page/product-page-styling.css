@@ -66,6 +66,7 @@ header img{
     padding-top: 15px;
     font-size:x-large;
     text-align: center;
+    border-top: 1px solid black;
 }
 
 .section-box{
@@ -89,7 +90,8 @@ header img{
     border-radius: 70px;
     border: 2px solid #14213d;
     transition: background-color 1s ease-in-out, color 0.7s ease-in;
-  
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
 }
 
 .section-box button:hover{
@@ -146,6 +148,8 @@ header img{
 }
 
 .spec-box iframe{
+    width: 460px;
+    height: 265px; 
     border-radius: 20px;
 }
 
@@ -169,9 +173,28 @@ header img{
     border: 0px solid;
     height: 20px;
     text-align: center;
-    background-color: red;
+    background-color: rgb(177, 36, 36);
     color: whitesmoke;
     max-width: 200px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.badge-blue{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.badge-blue p{
+    font-size: 12px;
+    border: 0px solid;
+    height: 15px;
+    text-align: center;
+    background-color: #14213d;
+    color: whitesmoke;
+    max-width: 100px;
     border-radius: 10px;
     padding: 5px;
     margin: 5px;
