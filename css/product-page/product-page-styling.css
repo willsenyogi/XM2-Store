@@ -137,6 +137,10 @@ header img{
     text-align: center;
 }
 
+.spec-box li{
+    text-align: center;
+}
+
 .spec-box ul{
     border-radius: 20px;
     padding-left: 20px;
