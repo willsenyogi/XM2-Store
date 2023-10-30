@@ -60,6 +60,7 @@ header img{
     background-color: #ffd60a;
     border-radius: 20px;
     padding: 40px;
+    max-width: 1400px;
 }
 
 .content-box h4{
