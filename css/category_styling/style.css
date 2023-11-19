@@ -154,15 +154,12 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-top: 5px;
 }
 
 .cat-card .badge p{
     font-size: 10px;
     border: 0px solid;
-    height: 20px;
     text-align: center;
-    margin-top: 2px;
     background-color: red;
     color: whitesmoke;
     max-width: 200px;
