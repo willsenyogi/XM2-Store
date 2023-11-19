@@ -12,8 +12,6 @@ Security is paramount, and we prioritize the protection of your personal informa
 
 Want to make informed decisions? Dive into the world of user reviews and ratings for each product, helping you choose the perfect gear tailored to your gaming needs. Whether you're a casual gamer, a competitive esports enthusiast, or a professional streamer, XM2 Store is your go-to destination for all things gaming.
 
-Responsive design ensures that you can access XM2 Store anytime, anywhere, and from any device. Whether you're at your gaming rig, on the go with your laptop, or simply browsing on your smartphone, our website adapts to provide a seamless experience.
-
 # Features
 ### Extensive Product Catalog
 Explore a wide range of gaming gear, including keyboards, mice, headsets, and more.
